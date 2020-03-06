@@ -1,0 +1,11 @@
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\obj\Debug\netcoreapp3.1\Cshlab2.csprojAssemblyReference.cache
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\obj\Debug\netcoreapp3.1\Cshlab2.AssemblyInfoInputs.cache
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\obj\Debug\netcoreapp3.1\Cshlab2.AssemblyInfo.cs
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\bin\Debug\netcoreapp3.1\Cshlab2.exe
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\bin\Debug\netcoreapp3.1\Cshlab2.deps.json
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\bin\Debug\netcoreapp3.1\Cshlab2.runtimeconfig.json
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\bin\Debug\netcoreapp3.1\Cshlab2.runtimeconfig.dev.json
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\bin\Debug\netcoreapp3.1\Cshlab2.dll
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\bin\Debug\netcoreapp3.1\Cshlab2.pdb
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\obj\Debug\netcoreapp3.1\Cshlab2.dll
+D:\Ucheba\Labs\2 sem\Cshlab2\Cshlab2\obj\Debug\netcoreapp3.1\Cshlab2.pdb
